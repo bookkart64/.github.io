@@ -1,0 +1,196 @@
+@font-face {
+    font-family: Standard-Book;
+    src: url("fonts/standard-book.otf");
+}
+@font-face {
+    font-family: Standard-Book-Italic;
+    src: url("fonts/standard-bold.otf");
+}
+
+/* Animation */ 
+
+
+@keyframes contentFadeIn{
+    from { opacity: 0;}
+    to { opacity: 100%;}
+}
+
+@keyframes opacityChange { 
+    from{ opacity: 1; }
+    to { opacity: 0.1;}
+}
+
+@keyframes backgroundColorChange{
+    from{ background-color: #15207E;}
+    to {  background-color: #f6f4ef ;}
+}
+
+body {
+    font-family: Standard-Book, Arial, Helvetica, sans-serif;
+    background-color: #f6f4ef;
+    text-rendering: optimizeLegibility;
+    animation-timing-function: ease-in-out;
+    -webkit-font-smoothing: antialiased;
+    font-kerning: normal;
+    box-sizing: border-box;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+}
+
+nav{
+    margin: 0 auto;
+    text-align: centerx;
+}
+
+ul {
+    margin: 0;
+    margin-block-start: 0;
+    padding: 0;
+    clear: both;
+}
+
+/* Page Elements */
+
+#container{
+    margin-top: 200px;
+    width: 100%;
+    clear: both;
+}
+
+#template {
+    float: none;
+    width: 100%;
+    animation: contentFadeIn;
+    animation-timing-function: ease-in;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-fill-mode: backwards;
+    margin-top: 200px;
+}
+
+#clientList{
+    display: none;
+}
+
+#navLinks{
+    width: 100%;
+    display: inline-block;
+    clear: both;
+    margin: auto;
+}
+
+#backgroundElements{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+}
+
+#mobileHeader{
+    width: 100%;
+}
+
+.projectTemplate{
+    width: 90%;
+    padding: 0 5%;
+    margin-bottom: 100px;
+}
+
+.projectImage{
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.projectText{
+    margin-bottom: 24px;
+}
+
+.client {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    width: 40%;
+    padding: 8px 0;
+    margin: 0 2.5%;
+    float: left;
+    text-align: left;
+}
+/*Typopgraphy*/
+
+h1 {
+    font-family: Standard-Bold, Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    line-height: 1.5;
+    padding: 16px;
+    margin: 8px;
+}
+
+h2 {
+    font-family: Standard-Bold, Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+h3, p, a {
+    font-family: Standard-Book, Arial, Helvetica, sans-serif;
+    color: dimgray;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+a {
+    text-decoration: underline;
+}
+
+li{
+    list-style: none;
+    text-align: center;
+    float: left;
+    margin: 0 8px;
+}
+
+/*IMG*/ 
+
+.svg {
+  opacity: 0.1;
+}
+
+/*Tablet*/ 
+
+/*Desktop*/ 
+@media only screen and (min-width: 1080px) {
+
+    #container{
+        margin-top: 120px;
+    }
+
+    #backgroundElements{
+        z-index: -1;
+    }
+
+    #navLinks{
+        width: 25%;
+    }
+
+    #template{
+        float: right;
+        width: 60%;
+    }
+    a {
+        text-decoration: none;
+        font-size: 2rem;
+    }
+
+    li {
+        float: none;
+    }
+
+    .client{
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+  }

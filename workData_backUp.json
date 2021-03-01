@@ -1,0 +1,570 @@
+{
+   "boxed": [
+      {
+          "edition": "005/006",
+          "artist": "Jim Goldberg",
+          "title": "Open See",
+          "media": "Steidl/Mackl 2009. Edition of  16. ",
+          "copy": "Clamshell box with recess, covered in imitation leather and paper backed rayon. Hand tooled in red and gold foil.",
+          "image1": ["desktop/boxed/openSee_hero.jpg", "mobile/boxed/openSee_hero_mobile.jpg", "Open See cover"],
+          "image2": ["desktop/boxed/openSee_2.jpg","mobile/boxed/openSee_mobile_2.jpg", "Open See Interior"]
+      },
+      {
+          "edition": "010/011",
+          "artist": "Jay Heikes",
+          "title": "Music for Minor Planets",
+          "media": "Rite Editions, 2018. Edition of 15. ",
+          "copy": "Presentation box with multiple platforms covered in Johanna English buckram and black brillianta book cloth.  Foil stamped in pewter.",
+          "image1": ["desktop/boxed/musicMinors_hero.jpg", "mobile/boxed/musicMinors_hero_mobile.jpg", "Music Minors cover"],
+          "image2": ["desktop/boxed/musicMinors_2.jpg", "mobile/boxed/musicMinors_2_mobile.jpg", "Music Minors interior"]
+      },
+      {
+         "edition": "018/023",
+          "artist": "Dr. Lakra",
+          "title": "Lexicon",
+          "media": "The Lapis Press 2010. Editon of 10. ",
+          "copy": "Clamshell box, rounded spine, false raised bands, faceted boards. Covered in distressed cowhide. Stamped in black front back and spine.",
+          "image1": ["desktop/boxed/lexicon_hero.jpg", "mobile/boxed/lexicon_hero_mobile.jpg", "Lexicon Cover"],
+          "image2": ["desktop/boxed/lexicon_2.jpg", "mobile/boxed/lexicon_2_mobile.jpg", "Lexicon Interior"]
+      },
+       {
+          "edition": "034/037",
+          "artist": "Christian Marclay",
+          "title": "Bottle Caps",
+          "media": "Fraenkel Gallery 2016. Edition of 6. ",
+          "copy": "Clamshell box with recess. Stainless steel “foot” designed and fabricated by Paolo Salvagione. Media folio with laser cut recesses by Magnolia Editions.",
+          "image1": ["desktop/boxed/bottleCaps_hero.jpg", "mobile/boxed/bottleCaps_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/bottleCaps_2.jpg", "mobile/boxed/bottleCaps_2_mobile.jpg", "Alt text"]
+      },
+      {
+          "edition": "109",
+          "artist": "Ignacio Perez Meruane",
+          "title": "A curving wave that never breaks",
+          "media": "Colpa Press 2018. ",
+          "copy": "Clamshell box with recess",
+          "image1": ["desktop/boxed/wave_hero.jpg", "mobile/boxed/wave_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/type_2.jpg", "mobile/boxed/type_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "127/129/131",
+          "artist": "Richard Tuttle",
+          "title": "Type",
+          "media": "Crown Point Press 2004. Edition of  15. ",
+          "copy": "Presentation box covered in Chromo bookcloth, multi fold yellow Yatsuo paper. Screen printed cover and colophon by Jonathan Hirabayashi. Gilding by Mari Andrews.",
+          "image1": ["desktop/boxed/type_hero.jpg", "mobile/boxed/type_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/type_2.jpg", "mobile/boxed/type_2_mobile.jpg", "Alt text"],
+          "image3": ["desktop/boxed/type_3.jpg", "mobile/boxed/type_3_mobile.jpg", "Alt text"]
+      },{
+          "edition": "138/141/143",
+          "artist": "Stephen Shore",
+          "title": "The La Brea Matrix",
+          "media": "The Lapis Press. Edition of 30. ",
+          "copy": "Presentation Folio covered in red Duo bookcloth. UV inkjet print by Magnolia Editions. White foil stamping.",
+          "image1": ["desktop/boxed/laBreaMatrix_hero.jpg", "mobile/boxed/laBreaMatrix_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/laBreaMatrix_2.jpg", "mobile/boxed/laBreaMatrix_2_mobile.jpg", "Alt text"],
+          "image3": ["desktop/boxed/laBreaMatrix_3.jpg", "mobile/boxed/laBreaMatrix_3_mobile.jpg", "Alt text"]
+      },{
+          "edition": "144/146",
+          "artist": "William Wiley",
+          "title": "Kali-fornia Dreamin",
+          "media": "Magnolia Editions. Edition of 20. ",
+          "copy": "Clamshell box covered in various studio remainders of cloth and leather. Bone clasp closures. Stamped in gold.",
+          "image1": ["desktop/boxed/kaliforniaDreamin_hero.jpg", "mobile/boxed/kaliforniaDreamin_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/kaliforniaDreaming_2.jpg", "kaliforniaDreaming_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "153/154",
+          "artist": "John Zurier",
+          "title": "Summer Book",
+          "media": "FORE-SITE Foundation, 2014. Edition of 40. ",
+          "copy": "Pull-off box, full cloth, blind stamped, interior printing by Magnolia Editions.",
+          "image1": ["desktop/boxed/summerBook_hero.jpg", "mobile/boxed/summerBook_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/summerBook_2.jpg", "mobile/boxed/summerBook_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "156/157",
+          "artist": "Ai Weiwei",
+          "title": "@Large",
+          "media": "Colpa Press 2018. ",
+          "copy": "Clamshell box with recess",
+          "image1": ["desktop/boxed/atLarge_hero.jpg", "mobile/boxed/atLarge_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/atLarge_2.jpg", "mobile/boxed/atLarge_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "158/159",
+          "artist": "Aaron Curry",
+          "title": "Aaron Curry",
+          "media": "Edition Jacob Samuel,  2015. Edition of 12. ",
+          "copy": "Clamshell box in hot pink satin. Cover foil stamped metallic green. Colophon screen printed by Bloom Screen Printing.",
+          "image1": ["desktop/boxed/aaronCurry_hero.jpg", "mobile/boxed/aaronCurry_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/aaronCurry_2.jpg", "mobile/boxed/aaronCurry_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "160/162",
+          "artist": "Darren Waterston",
+          "title": "A Storm, A Flock, A Host",
+          "media": "Achenbach Foundation for Graphic Arts, 2013. Edition of 39. ",
+          "copy": "Clamshell box in Graphite Chromo bookcloth. Cover foil stamped in matte silver.",
+          "image1": ["desktop/boxed/aStorm_hero.jpg", "mobile/boxed/aStorm_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/aStorm_2.jpg", "mobile/boxed/aStorm_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "163/167",
+          "artist": "Lynn Hershmann",
+          "title": "Conceiving Ada",
+          "media": "2010. Edition of 3. ",
+          "copy": "Pull off box with multiple recessed areas covered in Japanese brocade bookcloth. Cover and spine foil stamped in gold.",
+          "image1": ["desktop/boxed/conceivingAda_hero.jpg", "mobile/boxed/conceivingAda_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/conceivingAda_2.jpg", "mobile/boxed/conceivingAda_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "170/171",
+          "artist": "Rinko Kawauchi",
+          "title": "4%",
+          "media": "Lapis Press, 2014. Edition of 21. ",
+          "copy": "Pull off box covered in silver hide and black Japanese paper. Foil Stamped red on cover.",
+          "image1": ["desktop/boxed/fourPercent_hero.jpg", "mobile/boxed/fourPercent_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/fourPercent_2.jpg", "mobile/boxed/fourPercent_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "182/184",
+          "artist": "Lee Mullican",
+          "title": "MD 2 – HD",
+          "media": "The Estate of Lee Mullican, 2016. Edition of 20. ",
+          "copy": "Pull off box covered in tan and red Iris book cloth. Maxell logo printed UV Inkjet by Magnolia Editions.",
+          "image1": ["desktop/boxed/md2HD_hero.jpg", "mobile/boxed/md2HD_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/boxed/md2HD_2.jpg", "mobile/boxed/md2HD_2_mobile.jpg", "Alt text"]
+      }
+    ],
+    
+   "bound": [
+    {
+         "edition": "185/186/187",
+          "artist": "Richard Wagener",
+          "title": "Exoticum",
+          "media": "2017. Edition of 62. ",
+          "copy": "Modified Bradel binding, bound in terracotta goat skin and marbled paper. Slipcase in green Japanese bookcloth.",
+          "image1": ["desktop/bound/exoticum_hero.jpg", "mobile/bound/exoticum_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/bound/exoticum_2.jpg", "mobile/bound/exoticum_2_mobile.jpg", "Alt text"],
+          "image3": ["desktop/bound/exoticum_3.jpg", "mobile/bound/exoticum_3_mobile.jpg", "Alt text"]
+      },{
+          "edition": "024/026",
+          "artist": "Emily McVarish",
+          "title": "Last Year at Kew Gardens",
+          "media": "Granary Books, 2018. Edition of 35. ",
+          "copy": "Bound in Johanna Buckram. Multiple plate foil stamping cover and spine. ",
+          "image1": ["desktop/bound/lastYear_hero.jpg", "mobile/bound/lastYear_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/bound/lastYear_2.jpg", "mobile/bound/lastYear_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "098/102",
+          "artist": "Rachel Carson",
+          "title": "Nine Channel Movies",
+          "media": "Nawakum Press, 2010. Edition of 110. ",
+          "copy": "Quarter bound in book cloth and goatskin. Front and back panels covered in custom died “Carson Crackle” paper by Cave Paper. Clamshell box covered in Japanese book cloth. Paper folio and box cover foil stamped.",
+          "image1": ["desktop/bound/nineChannel_hero.jpg", "mobile/bound/nineChannel_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/bound/nineChannel_2.jpg", "mobile/bound/nineChannel_2_mobile.jpg", "Alt text"]
+      },{
+          "edition": "116/119",
+          "artist": "Jeff Kao",
+          "title": "Vitamin K ",
+          "media": "1998. Edition of 30. ",
+          "copy": "Accordion book bound with Black Yatsuo paper. Letterpress by Norman Clayton, Classic Letterpress. Slipcase cover material hand-stenciled by the artist.",
+          "image1": ["desktop/bound/vitaminK_hero.jpg", "mobile/bound/vitaminK_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/bound/vitaminK_2.jpg", "mobile/bound/vitaminK_2_mobile.jpg", "Alt text"]
+      },{
+         "edition": "121/122/123",
+          "artist": "Chris Carroll",
+          "title": "Paris",
+          "media": "Del Milion, 2013.  Edition of 85. ",
+          "copy": "“Limp” panel binding covered in watered marked silk and green Japanese book cloth. Recessed area stamped for label. Letterpress by Peter Koch Studios.",
+          "image1": ["desktop/bound/paris_hero.jpg", "mobile/bound/paris_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/bound/paris_2.jpg", "mobile/bound/paris_2_mobile.jpg", "Alt text"],
+          "image3": ["desktop/bound/paris_3.jpg", "mobile/bound/paris_3_mobile.jpg", "Alt text"]
+      },{
+         "edition": "132/134",
+          "artist": "Paolo Salvagione",
+          "title": "Grant Money",
+          "media": "2011. Edition of 10. ",
+          "copy": "Laser cut “book.” Laminated binders board laser cut to hold scissors, nail and uncut sheet of 20 dollar bills. Covered in gold “chromo” book cloth. Stamped in gold.",
+          "image1": ["desktop/bound/grantMoney_hero.jpg", "mobile/bound/grantMoney_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/bound/grantMoney_2.jpg", "mobile/bound/grantMoney_2_mobile.jpg", "Alt text"]
+      },{
+         "edition": "213/218",
+          "artist": "Daido Moriyama",
+          "title": "SERIES",
+          "media": "Little Big Man,  2014. Edition of 60. ",
+          "copy": "Matted photogravure prints bound into book form.  Mats hinged with Black Yatsuo paper. Cover screen printed by Jonathan Hirabayashi printers.",
+          "image1": ["desktop/bound/daido_hero.jpg", "mobile/bound/daido_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/bound/daido_2.jpg", "mobile/bound/daido_2_mobile.jpg", "Alt text"]
+      },{
+         "edition": "220/221/224",
+          "artist": "Russell Maret",
+          "title": "Pressed For Time",
+          "media": "2014. Edition of  22. ",
+          "copy": "Bradel binding covered in red goatskin and patterned paper printed letterpress by Russell Maret. Spine stamped in gold. Clamshell box covered with natural Japanese book cloth.  Recessed area and pull out drawer to hold ephemera.",
+          "image1": ["desktop/bound/pressedForTime_hero.jpg", "mobile/bound/pressedForTime_hero_mobile.jpg", "Alt text"],
+          "image2": ["desktop/bound/pressedForTime_2.jpg", "mobile/bound/pressedForTime_2_mobile.jpg", "Alt text"],
+          "image3": ["desktop/bound/pressedForTime_3_mobile.jpg", "mobile/bound/pressedForTime_3_mobile.jpg", "Alt text"]
+      }
+    ],
+
+"clients": [
+    {
+          "live": false,
+          "name": "Anthony Hernandez",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Aperture Foundation",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Brad Brown",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Epehemeral Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Casemore Kirkeby Gallery",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Charles Byrne Design",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Charles Hobson",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Christina Seely",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Colpa Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Crown Point Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Darren Waterston",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Daniel Martinez",
+          "link": ""
+      },{
+          "live": false,
+          "name": "David Hockney",
+          "link": ""
+      },{
+          "live": false,
+          "name": "David Maisel",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Edition Jacob Samuel",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Electric Works",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Émigré",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Emily McVarish",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Euqinom Projects",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Fine Arts Museums of San Francisco",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Fraenkel Gallery",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Fred Lyon",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Fredric Riskin",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Gale Antokal",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Gallery 16 ",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Gerald Cloud/Didier Mutel",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Granary Books",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Haines Gallery",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Henry Wessel",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Historicana",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Ian Van Coller",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Historicana",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Jim Goldberg",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Jimin Lee",
+          "link": ""
+      },{
+          "live": false,
+          "name": "John Chiara",
+          "link": ""
+      },{
+          "live": false,
+          "name": "John Zurier",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Judy Dater",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Jungle Garden Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Konnect Design",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Kota Ezawa",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Lapis Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Larry Sultan",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Liam Everett",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Linda Connor",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Little Big Man",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Luis Delgado/Malulu Editions",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Lynn Hershmann",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Magnolia Editions",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Matt Phillips",
+          "link": ""
+      },{
+          "live": false,
+          "name": "McNair Evans",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Michael Light",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Mickalene Thomas",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Mildred Howard",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Mullowney Printing",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Natalie Kitamura design",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Nawakum Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Nina Zurier",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Paolo Salvagione",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Paul Harris",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Paula Cooper Gallery",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Paulson Fontaine Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Peter Koch Printers",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Peter Pfau Architecture",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Pier 24",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Poltroon Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Public Design",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Richard Barnes",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Richard Misrach",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Richard Wagener",
+          "link": ""
+      },{
+          "live": false,
+          "name": "RITE Editions",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Rose Gallery",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Russell Crotty",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Russell Maret",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Sean McFarland",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Smith Andersen Gallery",
+          "link": ""
+      },{
+          "live": false,
+          "name": "TBH books",
+          "link": ""
+      },{
+          "live": false,
+          "name": "The Book Club of California",
+          "link": ""
+      },{
+          "live": false,
+          "name": "The Codex Foundation",
+          "link": ""
+      },{
+          "live": false,
+          "name": "The estate of Lee Mullican",
+          "link": ""
+      },{
+          "live": false,
+          "name": "The Kala Institute",
+          "link": ""
+      },{
+          "live": false,
+          "name": "The San Francisco Ballet",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Theresa Luisotti Gallery",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Thomas Ingalls Design",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Tricia Treacy",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Missing Links Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Moving Parts Press",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Todd Hido",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Victor Landwebber",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Virginia Commonwealth University",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Ward Schumaker",
+          "link": ""
+      },{
+          "live": false,
+          "name": "Zukor Art Conservation",
+          "link": ""
+      }
+    ]
+}
