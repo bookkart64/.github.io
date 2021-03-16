@@ -38,24 +38,18 @@ body {
 }
 
 nav{
-    margin: 0 auto;
-    text-align: centerx;
+    position: fixed;
+    z-index: 100;
+    top: 160px;
+    left: 30%;
+    transform: translateX(-30%);
 }
 
-ul {
-    margin: 0;
-    margin-block-start: 0;
-    padding: 0;
-    clear: both;
+.nav{
+    font-size: 1.25rem;
+    line-height: 1.5rem;
 }
-
 /* Page Elements */
-
-#container{
-    margin-top: 200px;
-    width: 100%;
-    clear: both;
-}
 
 #template {
     float: none;
@@ -65,25 +59,17 @@ ul {
     animation-duration: 2s;
     animation-delay: 2s;
     animation-fill-mode: backwards;
-    margin-top: 200px;
+    margin-top: 240px;
 }
 
 #clientList{
     display: none;
 }
-
-#navLinks{
-    width: 100%;
-    display: inline-block;
-    clear: both;
-    margin: auto;
-}
-
 #backgroundElements{
-    position: fixed;
     width: 100%;
     top: 0;
-    z-index: 1;
+    left: 0;
+    z-index: -1;
 }
 
 #mobileHeader{
@@ -114,6 +100,13 @@ ul {
     float: left;
     text-align: left;
 }
+
+.about { 
+    font-size: 2rem;
+    line-height: 2.5rem;
+    margin-bottom: 40px;
+    color: #000;
+}
 /*Typopgraphy*/
 
 h1 {
@@ -133,9 +126,9 @@ h2 {
     margin-block-end: 0;
 }
 
-h3, p, a {
+h3, p {
     font-family: Standard-Book, Arial, Helvetica, sans-serif;
-    color: dimgray;
+    color: #000;
     font-size: 1rem;
     line-height: 1.5;
     margin-block-start: 0;
@@ -144,6 +137,7 @@ h3, p, a {
 
 a {
     text-decoration: underline;
+    color: #000;
 }
 
 li{
@@ -155,10 +149,21 @@ li{
 
 /*IMG*/ 
 
-.svg {
+.svg{
+  position: fixed;
   opacity: 0.1;
+  width: 90%;
+  left: 20px;
+  top: 20px;
 }
 
+.amp {
+z-index: -2;
+position: fixed;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+}
 /*Tablet*/ 
 
 /*Desktop*/ 
@@ -172,10 +177,6 @@ li{
         z-index: -1;
     }
 
-    #navLinks{
-        width: 25%;
-    }
-
     #template{
         float: right;
         width: 60%;
@@ -183,6 +184,25 @@ li{
     a {
         text-decoration: none;
         font-size: 2rem;
+    }
+    .svg{ 
+        width:80%;
+        transform: translateX(20%);
+    }
+    nav{
+        top: 40px;
+        left: auto;
+        width: 20%;
+        transform: translateX(-20%);
+        text-align: left;
+    }
+    .amp {
+        width: 33%;
+    }
+
+    .nav{
+        font-size: 2rem;
+        line-height: 2.5rem;
     }
 
     li {
