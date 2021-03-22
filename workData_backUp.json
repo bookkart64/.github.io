@@ -132,8 +132,8 @@
         "title": "Nine Channel Movies ",
         "media": "Edition of 10. Four Editions. ",
         "copy": "Housings for digital media. Multiple folders and cutouts to hold CF cards, backup media and printed matter. Boxes and folios covered in Sierra, Brillianta and PVC bookcloth. Stamped in grey foil and blind.",
-        "image1": ["desktop/boxed/nine_hero.tif", "mobile/boxed/nine_hero_mobile.tif", "Alt text"],
-        "image2": ["desktop/boxed/nine_2.tif", "mobile/boxed/nine_2_mobile.tif", "Alt text"],
+        "image1": ["desktop/boxed/nine_hero.jpg", "mobile/boxed/nine_hero_mobile.jpg", "Alt text"],
+        "image2": ["desktop/boxed/nine_2..jpg", "mobile/boxed/nine_2_mobile.jpg", "Alt text"],
         "image3": ["desktop/boxed/nine_3.jpg", "mobile/boxed/nine_3_mobile.jpg", "Alt text"]
     }, {
         "edition": "190/192",
