@@ -168,14 +168,15 @@ li{
 .svg{
   position: fixed;
   opacity: 0.1;
-  width: 90%;
+  width: 80%;
   left: 20px;
   top: 20px;
-  z-index: -1;
+  z-index: 1;
 }
 
 .st0{
-   fill: #fff;
+   fill: #000;
+   opacity: 10%;
 }
 
 .amp {
@@ -223,7 +224,7 @@ transform: translate(-50%, -50%);
         text-align: left;
     }
     .amp {
-        width: 400px;
+        width: 500px;
     }
 
     .nav{
