@@ -43,7 +43,7 @@
           "media": "Colpa Press 2018. ",
           "copy": "Clamshell box with recess",
           "image1": ["desktop/boxed/wave_hero.jpg", "mobile/boxed/wave_hero_mobile.jpg", "Alt text"],
-          "image2": ["desktop/boxed/type_2.jpg", "mobile/boxed/type_2_mobile.jpg", "Alt text"]
+          "image2": ["desktop/boxed/wave_2.jpg", "mobile/boxed/wave_2_mobile.jpg", "Alt text"]
       },{
           "edition": "127/129/131",
           "artist": "Richard Tuttle",
@@ -69,21 +69,21 @@
           "media": "Magnolia Editions. Edition of 20. ",
           "copy": "Clamshell box covered in various studio remainders of cloth and leather. Bone clasp closures. Stamped in gold.",
           "image1": ["desktop/boxed/kaliforniaDreamin_hero.jpg", "mobile/boxed/kaliforniaDreamin_hero_mobile.jpg", "Alt text"],
-          "image2": ["desktop/boxed/kaliforniaDreaming_2.jpg", "kaliforniaDreaming_2_mobile.jpg", "Alt text"]
+          "image2": ["desktop/boxed/kaliforniaDreaming_2.jpg", "mobile/boxed/kaliforniaDreaming_2_mobile.jpg", "Alt text"]
       },{
           "edition": "153/154",
           "artist": "John Zurier",
           "title": "Summer Book ",
-          "media": "FORE-SITE Foundation, 2014. Edition of 40. ",
-          "copy": "Pull-off box, full cloth, blind stamped, interior printing by Magnolia Editions.",
+          "media": "Borch Editions, 2016.  Edition of 15. ",
+          "copy": "Single tray clamshell. UV inkjet text on cover by Magnolia Editions.",
           "image1": ["desktop/boxed/summerBook_hero.jpg", "mobile/boxed/summerBook_hero_mobile.jpg", "Alt text"],
           "image2": ["desktop/boxed/summerBook_2.jpg", "mobile/boxed/summerBook_2_mobile.jpg", "Alt text"]
       },{
           "edition": "156/157",
           "artist": "Ai Weiwei",
           "title": "@Large ",
-          "media": "Colpa Press 2018. ",
-          "copy": "Clamshell box with recess ",
+          "media": " FORE-SITE Foundation, 2014. Edition of 40. ",
+          "copy": "Pull-off box, full cloth, blind stamped, interior printing by Magnolia Editions.",
           "image1": ["desktop/boxed/atLarge_hero.jpg", "mobile/boxed/atLarge_hero_mobile.jpg", "Alt text"],
           "image2": ["desktop/boxed/atLarge_2.jpg", "mobile/boxed/atLarge_2_mobile.jpg", "Alt text"]
       },{
@@ -133,7 +133,7 @@
         "media": "Edition of 10. Four Editions. ",
         "copy": "Housings for digital media. Multiple folders and cutouts to hold CF cards, backup media and printed matter. Boxes and folios covered in Sierra, Brillianta and PVC bookcloth. Stamped in grey foil and blind.",
         "image1": ["desktop/boxed/nine_hero.jpg", "mobile/boxed/nine_hero_mobile.jpg", "Alt text"],
-        "image2": ["desktop/boxed/nine_2..jpg", "mobile/boxed/nine_2_mobile.jpg", "Alt text"],
+        "image2": ["desktop/boxed/nine_2.jpg", "mobile/boxed/nine_2_mobile.jpg", "Alt text"],
         "image3": ["desktop/boxed/nine_3.jpg", "mobile/boxed/nine_3_mobile.jpg", "Alt text"]
     }, {
         "edition": "190/192",
@@ -242,7 +242,7 @@
           "artist": "Daido Moriyama",
           "title": "SERIES",
           "media": "Little Big Man,  2014. Edition of 60. ",
-          "copy": "Matted photogravure prints bound into book form.  Mats hinged with Black Yatsuo paper. Cover screen printed by Jonathan Hirabayashi printers.",
+          "copy": "Matted photogravure prints bound into book form.  Mats hinged with Black Yatsuo paper. Cover screen printed by Jonathan Hirabayashi printers. Text pages screen printed in Matte silver by Bloom Screen Printing.",
           "image1": ["desktop/bound/daido_hero.jpg", "mobile/bound/daido_hero_mobile.jpg", "Alt text"],
           "image2": ["desktop/bound/daido_2.jpg", "mobile/bound/daido_2_mobile.jpg", "Alt text"]
       },{
